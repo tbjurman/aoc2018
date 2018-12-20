@@ -1,0 +1,6 @@
+[package]
+name = "day1"
+version = "0.1.0"
+authors = ["Tomas Bjurman <tbjurman@tail-f.com>"]
+
+[dependencies]
